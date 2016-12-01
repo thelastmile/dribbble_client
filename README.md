@@ -14,8 +14,8 @@ and "item id" is a userId or a shotId.
 
 Examples:
 npm start usershots 43762, where 43762 is the userId
-npm start shot , where is the shotId
-npm start attachments , where  is the shotId
+npm start shot 12420, where 12420 is the shotId
+npm start attachments 12420, where 12420 is the shotId
 npm start everyone
 npm start popular
 npm start debuts
